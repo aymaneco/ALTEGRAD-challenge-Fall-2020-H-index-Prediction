@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 28 12:26:18 2021
-
-@author: L.Badr
-"""
 from spektral.layers import GCNConv
 
 from tensorflow.keras.models import Model
