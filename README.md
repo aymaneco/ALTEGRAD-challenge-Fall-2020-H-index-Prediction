@@ -8,7 +8,6 @@ It contains the different python files that include useful function and classes.
 ## Folder 2: Data
 It containt a text file of drive link to have all necessary data
 ## Notebooks Description :
-\begin{itemize}
-\item
-\end{itemize}
+* `Altegrad_Models.ipynb`: 
+* Item 2
 
