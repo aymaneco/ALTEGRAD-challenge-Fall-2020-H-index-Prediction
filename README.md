@@ -1,13 +1,17 @@
 ### ALTEGRAD Challenge 2021 : Predicting the h-index of authors
-
+***
 Authors: Aymane BERRADI - Taoufik AGHRIS - Badr LAAJAJ
 
 # Architecture of the project
 ## Folder 1: utils
-It contains the different python files that include useful function and classes.
+It contains the different python files that include useful functions and classes.
 ## Folder 2: Data
-It containt a text file of drive link to have all necessary data
+It contains a text file of drive link to have all necessary data
 ## Notebooks Description :
-* `Altegrad_Models.ipynb`: 
-* Item 2
+* `Text_Preprocessing_and_Embbeding.ipynb`: it contains all preprocessing steps for text data, and embedding using Doc2Vec and S-BERT.
+* `Node_embedding.ipynb`: it contains the embedding of the nodes using deepwalk for weighted ad unweighted versions of the graph.
+* `Features_engineering.ipynb`: it contains the structural features for graph data, and constructed variables used in the `Altegrad_Models.ipynb`.
+* `Altegrad_Models.ipynb`: it contains several experiments on both features configuration and predictive models.
+* `Kaggle_Submission.ipynb`: it's the notebook that reproduces predictions that lead us to a score of 2.99 on the Public Leadboard.
+
 
