@@ -8,7 +8,7 @@ class AveragingModels(BaseEstimator, RegressorMixin, TransformerMixin):
       y : target variable ;
       models : models to be averaged
   Output :
-      mean of the prediction
+      mean of the predictions
   """
   def __init__(self, X, y, models):
       self.X = X
