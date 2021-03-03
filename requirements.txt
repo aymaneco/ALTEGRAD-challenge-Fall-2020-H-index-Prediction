@@ -1,0 +1,12 @@
+numpy
+pandas
+sklearn
+nltk
+networkx
+sentence-transformers
+gensim
+langdetect
+catboost
+xgboost
+lightgbm
+spektral
