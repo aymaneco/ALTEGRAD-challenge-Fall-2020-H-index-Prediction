@@ -1,4 +1,4 @@
-### ALTEGRAD Challenge 2021 : Predicting the h-index of authors
+# ALTEGRAD Challenge 2021 : Predicting the h-index of authors
 > Aymane BERRADI - Taoufik AGHRIS - Badr LAAJAJ
 
 # Architecture of the project
